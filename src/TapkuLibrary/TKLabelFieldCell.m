@@ -43,6 +43,9 @@
     _field.font = [UIFont boldSystemFontOfSize:16.0];
 	[self.contentView addSubview:_field];
 
+	label.backgroundColor = [UIColor clearColor];
+	field.backgroundColor = [UIColor clearColor];
+	
     return self;
 }
 - (id) initWithFrame:(CGRect)frame reuseIdentifier:(NSString *)reuseIdentifier {

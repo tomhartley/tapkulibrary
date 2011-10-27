@@ -281,7 +281,7 @@ CGRect subtractRect(CGRect wf,CGRect kf){
 	
 }
 - (void) keyboardWillAppear:(NSNotification *)notification {
-	
+	/*
 	NSDictionary *userInfo = [notification userInfo];
 	NSValue* aValue = [userInfo objectForKey:UIKeyboardFrameEndUserInfoKey];
 	CGRect kf = [aValue CGRectValue];
@@ -293,6 +293,7 @@ CGRect subtractRect(CGRect wf,CGRect kf){
 
 	[UIView commitAnimations];
 
+	 */
 }
 - (void) keyboardWillDisappear:(NSNotification *) notification {
 	_alertFrame = [UIApplication sharedApplication].keyWindow.bounds;
