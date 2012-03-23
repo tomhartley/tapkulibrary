@@ -50,7 +50,6 @@
 #import "TKEmptyView.h"
 #import "TKImageCenter.h"
 #import "TKViewController.h"
-#import "TKAppDelegate.h"
 
 // CELLS
 #import "TKLabelCell.h"
