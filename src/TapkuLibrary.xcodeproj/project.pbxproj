@@ -295,7 +295,7 @@
 				3B45DDF1134C736600D24C1A /* LogicTests.octest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		0867D691FE84028FC02AAC07 /* TapkuLibrary */ = {
 			isa = PBXGroup;
@@ -322,7 +322,7 @@
 				3BAC995910953DF400F235F1 /* MapKit.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		32C88DFF0371C24200C91783 /* Other Sources */ = {
 			isa = PBXGroup;
@@ -330,7 +330,7 @@
 				AA747D9E0F9514B9006C5449 /* TapkuLibrary_Prefix.pch */,
 			);
 			name = "Other Sources";
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		3B859EDF134C753E00661088 /* UnitTests */ = {
 			isa = PBXGroup;
@@ -340,7 +340,7 @@
 				3B89162A134D93D000BD2B31 /* FoundationTests.m */,
 			);
 			name = UnitTests;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		3B8B591810F0816300EABA45 /* Coverflow */ = {
 			isa = PBXGroup;
@@ -361,7 +361,7 @@
 				3BBF8A4112970B3E008AB2B1 /* UI */,
 			);
 			path = TapkuLibrary;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		3BAC99F910953E2400F235F1 /* Calendar */ = {
 			isa = PBXGroup;
